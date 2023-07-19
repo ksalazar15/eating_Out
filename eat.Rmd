@@ -77,4 +77,4 @@ The Chi-squared test shows the P-value is 0.0008179, and the Fisher Exact test f
 
 # Discussion/Conclusions
 
-Because the P-value (0.0008179) is so low, I reject the null hypothesis and come to the conclusion that there are differences in dining out based on race.
+Based on the Fisher Exact test we only have evidence that there's a difference in eating out based on white and black race for the P-value is so small it shows that there exists a difference (P=0.008179) so I reject the null hypothesis. While we have no evidence about difference in the frequency of eating out for whites and other because the p value (0.35) is so large we fail reject the null hypothesis. While we also have no evidence about difference in the frequency of eating out for blacks and other because the p value (0.28) is so large we also fail reject the null hypothesis.
